@@ -19,7 +19,7 @@ body {
 .hero-top {
     width: 100%;
     min-height: 60vh;
-    background-image: url(https://images.unsplash.com/photo-1675295275133-dcc3b94a5d30?q=80&w=2060&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-image: url(https://images.unsplash.com/photo-1495856458515-0637185db551?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -137,8 +137,16 @@ body {
 .notf .photo {
     width: 40px;
     height: 40px;
-    border-radius: 50%;
-    background-color: red;
+    border-radius: 50%; 
+}
+
+.notf .photoimg1{
+    background-image: url(https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+}
+.notf .photoimg2{
+    background-image: url(https://images.unsplash.com/photo-1505033575518-a36ea2ef75ae?q=80&w=1886&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
 }
 
 .notf p {
